@@ -4,3 +4,6 @@
 [submodule "tp-book-tracking-app"]
 	path = tp-book-tracking-app
 	url = https://github.com/haitammabrouk/tp-book-store
+[submodule "tp-shows-angular"]
+	path = tp-shows-angular
+	url = https://github.com/haitammabrouk/tp-shows-angular
